@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoForMatricesApp1</string>
+    <string name="intro_First_Line">PAKISTAN\'S</string>
+    <string name="intro_second_line">MOST LOVED FAMILY MATTRESS BRAND</string>
+    <string name="intro_LAST_line">SINCE 1974</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_user_signup">New User? Register here</string>
+    <string name="Enter_Email">Enter Email</string>
+    <string name="Enter_Password">Enter Password</string>
+</resources>
