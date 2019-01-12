@@ -7,4 +7,7 @@
     <string name="btn_user_signup">New User? Register here</string>
     <string name="Enter_Email">Enter Email</string>
     <string name="Enter_Password">Enter Password</string>
+    <string name="User_Login">User Login</string>
+    <string name="Enter_Name">Enter Name</string>
+    <string name="SignIn">Sign In</string>
 </resources>
