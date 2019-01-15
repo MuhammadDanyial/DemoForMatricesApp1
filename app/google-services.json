@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "507597499636",
+    "firebase_url": "https://matricesapp.firebaseio.com",
+    "project_id": "matricesapp",
+    "storage_bucket": "matricesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507597499636:android:6498ca361834aeeb",
+        "android_client_info": {
+          "package_name": "com.example.muhammaddanyialkhan.demoformatricesapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507597499636-jtm5bg5823ov8lo5lg5pjlonp679s8g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmwhZdO4ckS3oRLAf5osUQWGbqSmgicDQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
