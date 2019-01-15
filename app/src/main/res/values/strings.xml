@@ -10,4 +10,14 @@
     <string name="User_Login">User Login</string>
     <string name="Enter_Name">Enter Name</string>
     <string name="SignIn">Sign In</string>
+    <string name="reg_msg">New User Registration</string>
+    <string name="btn_register">Register</string>
+    <string name="f_name">First Name</string>
+    <string name="l_name">Last Name</string>
+    <string name="password">Password</string>
+    <string name="Confirm_password">Confirm Password</string>
+    <string name="contact">Contact Number</string>
+    <string name="email">Email address</string>
+    <string name="Popular_Products">Popular Products</string>
+    <string name="Browse_Category">Browse Category</string>
 </resources>
