@@ -30,9 +30,9 @@ public class addData extends AppCompatActivity {
 
         btnsubmit=findViewById(R.id.btn_submit);
 
-        txtName=findViewById(R.id.product_name);
-        txtLink=findViewById(R.id.product_link);
-        txtPrice=findViewById(R.id.product_price);
+        txtName=findViewById(R.id.product_name_data);
+        txtLink=findViewById(R.id.product_link_data);
+        txtPrice=findViewById(R.id.product_price_data);
 
         btnsubmit.setOnClickListener(new View.OnClickListener() {
             @Override

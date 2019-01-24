@@ -45,7 +45,7 @@
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/product_name"
+                android:id="@+id/product_name_data"
                 android:inputType="text"
                 android:textColorHint="@color/btnColorBlue"
                 android:textColor="@color/btnColorBlue"
@@ -84,7 +84,7 @@
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/product_price"
+                android:id="@+id/product_price_data"
                 android:inputType="text"
                 android:textColorHint="@color/btnColorBlue"
                 android:textColor="@color/btnColorBlue"
@@ -123,7 +123,7 @@
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/product_link"
+                    android:id="@+id/product_link_data"
                     android:inputType="text"
                     android:textColorHint="@color/btnColorBlue"
                     android:textColor="@color/btnColorBlue"

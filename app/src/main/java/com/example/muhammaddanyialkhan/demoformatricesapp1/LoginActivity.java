@@ -67,7 +67,7 @@ public class LoginActivity extends AppCompatActivity {
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         if(task.isSuccessful()){
                             //we can return to another activity
-                            Intent intent = new Intent(LoginActivity.this, addData.class);
+                            Intent intent = new Intent(LoginActivity.this, ShopActivity.class);
                             intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
                             startActivity(intent);
                         }else {

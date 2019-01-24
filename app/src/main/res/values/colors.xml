@@ -6,4 +6,6 @@
     <color name="btnColorDarkBlue">#02233e</color>
     <color name="ThemeColor">#EBE8E5</color>
     <color name="bgWhite">#ffffff</color>
+    <color name="red">#840505</color>
+    <color name="darkRed">#540101</color>
 </resources>
